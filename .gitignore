@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+data/
+local-data/
+outputs/
+*.dta
+*.xlsx
+*.csv
+*.zip
+*.pth
+*.pt

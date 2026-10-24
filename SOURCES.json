@@ -1,0 +1,9 @@
+[
+  {
+    "project": "python-snake-game",
+    "file": "snake.py",
+    "source": "pres/Game_for_xianer.py",
+    "original_sha256": "2c037c2ff8388627441a2758c52233d75d5fdd43fa2ce495ca605e014410baee",
+    "changes": "Personal paths sanitized; original logic retained. Removed private video feature and unused import; fixed nested mainloops, duplicate gameover and font arguments."
+  }
+]
